@@ -1,0 +1,24 @@
+{
+  "name": "Brooklyn-99-fanquiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritikmangtani/Brooklyn-99-fanquiz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ritikmangtani/Brooklyn-99-fanquiz/issues"
+  },
+  "homepage": "https://github.com/ritikmangtani/Brooklyn-99-fanquiz#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}

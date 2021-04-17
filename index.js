@@ -40,12 +40,6 @@ function play(question,answer){
 //creating object
 
 
-
-
-
-
-
-
 var questions =  [{
   question : 
   `Where did Terry once live when pursuing a college education? 
